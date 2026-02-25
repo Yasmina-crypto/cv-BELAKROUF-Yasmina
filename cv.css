@@ -20,7 +20,7 @@ body{
 /* Header */
 .header {
 
-    background:url(./images/CV.jpg) center/cover;
+    background: center/cover;
     min-height: 100vh;
     padding: 30px 15px;
 }
