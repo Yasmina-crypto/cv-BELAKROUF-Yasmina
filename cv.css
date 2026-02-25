@@ -20,7 +20,7 @@ body{
 /* Header */
 .header {
 
-    background:url(images/../CV.jpg) center/cover;
+    background:url(./images/CV.jpg) center/cover;
     min-height: 100vh;
     padding: 30px 15px;
 }
@@ -118,7 +118,7 @@ nav a {
 
 /* Footer */
 .footer {
-    background:url(images/../CV.jpg) center/cover;;
+    background:url(./images/CV.jpg) center/cover;;
     color: #fff;
     text-align: center;
     padding: 40px 0;
